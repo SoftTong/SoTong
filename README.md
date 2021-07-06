@@ -6,7 +6,7 @@
 - Docker > 19.x
 
 ## Installation
-1. 소스코드 다운로드 - SoTong 클론 후 해당 디렉토리에서 서브 모듈 server, cline 클론 진행
+1. 소스코드 다운로드 - SoTong 클론 후 해당 디렉토리에서 서브 모듈 server, client 클론 진행
     ```shell
     $ git clone https://github.com/SoftTong/SoTong.git
     $ cd SoTong
