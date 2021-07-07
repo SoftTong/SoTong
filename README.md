@@ -29,7 +29,7 @@
 3. 스프링부트 gradle 빌드
     ```shell
     $ cd server
-    server$ ./gradle build
+    server$ ./gradlew build
     ```
 # Usage
 - 도커 이미지 빌드 및 컨테이너 실행
