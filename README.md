@@ -13,6 +13,14 @@
     SoTong$ git clone https://github.com/SoftTong/client.git
     SoTong$ git clone https://github.com/SoftTong/server.git
     ```
+    or
+    ```shell
+    $ git clone https://github.com/SoftTong/SoTong.git
+    $ cd SoTong
+    $ git submodule init
+    $ git submodule update
+    ```
+    
 2. 리액트 npm 패키지 설치
     ```shell
     $ cd client
