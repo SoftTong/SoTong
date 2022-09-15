@@ -9,8 +9,9 @@
 > 
 
 ## 🛠️ 기술 스택
-
-[기술 스택](https://www.notion.so/bba630961cce45398df0b85bd43411e2)
+| FrontEnd | BackEnd | DevOps |
+| --- | --- | --- |
+|<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">|<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> ![JPA](https://img.shields.io/badge/jpa-6DA55F.svg?style=for-the-badge&logo=springdatajpa&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%230769AD.svg?style=for-the-badge&logo=mysql&logoColor=white) | ![Docker](https://img.shields.io/badge/docker-%23007ACC.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 🗃️ 프로젝트 구조
 
